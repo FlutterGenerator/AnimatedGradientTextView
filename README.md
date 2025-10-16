@@ -41,7 +41,7 @@ allprojects {
 And then add in your **app build.gradle** :
 ```
 dependencies {
-    implementation 'com.github.FlutterGenerator:AnimatedGradientTextView:v0.0.7'
+    implementation 'com.github.FlutterGenerator:AnimatedGradientTextView:v0.0.8'
 }
 ```
 
