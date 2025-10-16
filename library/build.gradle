@@ -6,12 +6,12 @@ plugins {
 group = 'com.github.FlutterGenerator'
 
 android {
-    compileSdkVersion = 34
+    compileSdkVersion = 36
     namespace = "com.mursaat.extendedtextview"
 
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion 34
+        targetSdkVersion 35
         consumerProguardFiles "consumer-rules.pro"
     }
 
@@ -44,7 +44,7 @@ afterEvaluate {
             release(MavenPublication) {
                 groupId = 'com.github.FlutterGenerator'
                 artifactId = 'AnimatedGradientTextView'
-                version = 'v0.0.7'
+                version = 'v0.0.8'
 
                 from components.release
             }
