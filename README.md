@@ -26,7 +26,7 @@ Changelog
 Latest release
 ---------------
 
-The most recent release is v0.0.7, released July 20, 2025
+The most recent release is v0.0.8, released October 16, 2025
 
 To add a dependency using Gradle, add in your **top-level build.gradle**:
 ```
