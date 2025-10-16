@@ -10,8 +10,11 @@ This library will allow you to create TextView which uses color gradients and cu
 Changelog
 ---------
 
+* **v0.0.8**
+  * Fix crash v0.0.8, released October 16, 2025
+
 * **v0.0.7**
-  * Fix crash
+  * Fix crash v0.0.7, released July 22, 2025
 
 * **v0.0.6**
   * Fix crash v0.0.6, released August 29, 2017
