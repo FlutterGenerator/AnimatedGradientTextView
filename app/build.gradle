@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    compileSdk = 34
+    compileSdk = 36
     namespace = "com.mursaat.sample"
 	
     defaultConfig {
         applicationId "com.mursaat.sample"
         minSdk = 21
-        targetSdk = 34
+        targetSdk = 35
         versionCode 1
         versionName "1.0"
     }
